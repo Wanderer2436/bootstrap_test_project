@@ -8,6 +8,19 @@ body{
     font-size: 110%
     }
 
+.my-car{
+    padding: 0;
+    }
+
+.my-car .carousel-item {
+    display: flex;
+    max-height: 920px;
+    }
+
+.my-car .carousel-item img {
+    object-fit: cover;
+    }
+
 td  {
     vertical-align: middle;
     }
@@ -36,3 +49,16 @@ h1 {
 h5  {
  color: white;
     }
+
+.img-left {
+   margin: 0 20px 10px 0;
+   padding: 0;
+   float: left;
+    }
+
+.img-right {
+   margin: 0 0 10px 20px;
+   padding: 0;
+   float: right;
+    }
+
