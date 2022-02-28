@@ -1,0 +1,38 @@
+html{
+    font-size: 110%
+    }
+
+body{
+    background-color: black;
+    font-family: 'League Spartan', sans-serif;
+    font-size: 110%
+    }
+
+td  {
+    vertical-align: middle;
+    }
+
+th  {
+    vertical-align: middle;
+    }
+
+p   {
+    color: white;
+    }
+
+p   {
+  margin: 0 0 10px;
+    }
+
+p   {
+  margin-top: 10px;
+  margin-bottom: 1rem;
+    }
+
+h1 {
+ color: white;
+    }
+
+h5  {
+ color: white;
+    }
